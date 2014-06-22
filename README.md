@@ -20,5 +20,9 @@ Confére description
 http://creativecommons.org/licenses/by-sa/2.0/be/
 
 
+La paternité du jeu The XP Game revient à Vera Peeters et Pascal Van Cauwenberghe.
+Les présentes modifications sont de ma seule responsabilité :
+Anthony Cassaigne.
+
 Have fun !
 @acassaigne
