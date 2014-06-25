@@ -20,5 +20,8 @@ La paternité du jeu The XP Game revient à [Vera Peeters](http://www.agilebelgi
 Les présentes modifications sont de ma seule responsabilité :
 Anthony Cassaigne.
 
+Autre resource utile :
+[www.nayima.be/html/xpgame_explained.pdf](www.nayima.be/html/xpgame_explained.pdf)
+
 Have fun !
 @acassaigne
