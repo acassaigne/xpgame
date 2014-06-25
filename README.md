@@ -9,6 +9,8 @@ Vous trouvez donc ici le matériel suivant :
 
 - Une présentation (de quelques slides) permettant d'introduire et de conduire l'atelier XP Game.
 - Le fichier (au format pdf et [scribus](http://www.scribus.net/)) contenant les user stories au 7,5cm x 12,5 cm parfait pour coller sur des fiches bristol de ce format.
+- Autre resource utile [www.nayima.be/html/xpgame_explained.pdf](www.nayima.be/html/xpgame_explained.pdf)
+
 
 Attention pour obtenir une présentation correcte des slides il vous faut installer la font [noteworthy](http://tinyurl.com/noteworthy-ttc) sinon vous pouvez utiliser la version PDF.
 
@@ -20,8 +22,6 @@ La paternité du jeu The XP Game revient à [Vera Peeters](http://www.agilebelgi
 Les présentes modifications sont de ma seule responsabilité :
 Anthony Cassaigne.
 
-Autre resource utile :
-[www.nayima.be/html/xpgame_explained.pdf](www.nayima.be/html/xpgame_explained.pdf)
-
 Have fun !
+
 @acassaigne
