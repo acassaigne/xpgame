@@ -8,7 +8,7 @@ Parce que je souhaite mettre en oeuvre une estimation plus libre au cours de l'a
 Vous trouvez donc ici le matériel suivant :
 
 - Une présentation (de quelques slides) permettant d'introduire et de conduire l'atelier XP Game.
-- Le fichier (au format pdf et [scribus](http://www.scribus.net/)) contenant les user stories au 7,5cm x 12,5 cm parfait pour coller sur des fiches bristol de ce format.
+- Le fichier (au format pdf et [scribus](http://www.scribus.net/)) contenant les user stories au 7,5cm x 12,5 cm parfait pour coller sur des fiches bristol par exemple.
 - Autre resource utile [www.nayima.be/html/xpgame_explained.pdf](www.nayima.be/html/xpgame_explained.pdf)
 
 
@@ -19,9 +19,9 @@ Cette version de l'atelier XP Game est délivré sous licence Creative Common : 
 
 La paternité du jeu The XP Game revient à [Vera Peeters](http://www.agilebelgium.be/xpgame/) et [Pascal Van Cauwenberghe](http://www.agilebelgium.be/xpgame/).
 
-Les présentes modifications sont de ma seule responsabilité :
-Anthony Cassaigne.
+Les présentes modifications sont de ma seule responsabilité.
 
-Have fun !
+Have fun !  
 
+Anthony Cassaigne.  
 @acassaigne
