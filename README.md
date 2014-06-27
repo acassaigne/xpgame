@@ -3,7 +3,7 @@
 Le matériel ici présent est directement inspiré de l'atelier XP Game de http://www.xp.be/xpgame/. C'est donc un réel fork !
 Oui c'est un fork mais pourquoi ?
 
-Parce que je souhaite mettre en oeuvre une estimation plus libre au cours de l'atelier, notamment en utilisant la suite de fibonacci. J'ai souhaité y ajouter quelques nuances dans la façon dont je mène l'atelier notamment en introduisant l'approche wall planning dans l'étape d'estimation.
+Parce que je souhaite mettre en oeuvre une estimation de type wall planning et donc un peu plus libre que celle pré-déterminée sur les user stories d'origine.
 
 Vous trouvez donc ici le matériel suivant :
 
